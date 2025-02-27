@@ -5,7 +5,7 @@
 
 # auto_mapping_cleaning 프로젝트 개요
 
-`auto_mapping_cleaning` 프로젝트는 **ROS (Robot Operating System)** 환경에서 **자동 매핑 및 청소 경로 생성**을 목표로 합니다.  
+`auto_mapping_cleaning` 프로젝트는 **ROS2 (Robot Operating System)** 환경에서 **자동 매핑 및 청소 경로 생성**을 목표로 합니다.  
 이 시스템은 **프론티어 탐색 알고리즘**을 활용하여 **미탐지 구역을 효과적으로 탐색**하고, 생성된 맵을 기반으로 **최적의 청소 경로를 자동으로 계획**합니다.
 
 ---
@@ -20,6 +20,6 @@
 
 2. **생성된 맵 기반 청소 경로 생성**
    - SLAM을 통해 구축된 맵을 활용한 경로 계획  
-   - DFS 기반으로 효율적인 청소 패턴 적용  
+ 
 
 
