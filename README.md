@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/a66d203d-aad3-4c32-935c-236dfc5f3d3f" width="500">
 
-<img src="https://github.com/user-attachments/assets/3916763b-f4cd-44e2-84ce-ea3dce010875" width="500" height="600">
+<img src="https://github.com/user-attachments/assets/3916763b-f4cd-44e2-84ce-ea3dce010875" width="500" height="550">
 
 
 # auto_mapping_cleaning 프로젝트 개요
